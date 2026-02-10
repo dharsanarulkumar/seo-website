@@ -78,3 +78,10 @@ footer {
     padding: 15px;
     margin-top: 50px;
 }
+.saree-image {
+    width: 100%;
+    max-width: 400px;
+    display: block;
+    margin: 30px auto;
+    border: 3px solid #d4af37;
+}
