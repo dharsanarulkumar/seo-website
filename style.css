@@ -87,8 +87,8 @@ footer {
 }
 /* Force ALL images to 10px by 10px */
 img {
-    width: 10px;
-    height: 10px;
+    width: 100px;
+    height: 100px;
     object-fit: cover;
 }
 
