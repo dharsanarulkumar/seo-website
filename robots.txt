@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coloursoverload.vercel.app/sitemap.xml
